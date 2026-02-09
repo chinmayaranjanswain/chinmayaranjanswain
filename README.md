@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHINMAYA RANJAN SWAIN.</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working on **personal project - BOPIS**
 
 - 🌱 I’m currently learning **AI/ML**
 
