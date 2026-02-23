@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://chinmaya353.netlify.app/](https://chinmaya353.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chinmaya.app/](https://chinmayaswain.netlify.app/)
+-  [https://chinmaya.app/](https://chinmayaswain.vercel.app/)
+
 
 - 💬 Ask me about **python, os ,js**
 
