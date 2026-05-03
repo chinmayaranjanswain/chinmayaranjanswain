@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm CHINMAYA RANJAN SWAIN.</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on **personal project - BOPIS**
+- 🔭 I’m currently working on **personal project - KHATI**
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://chinmaya.app/](https://chinmayaswain.netlify.app/)
--  [https://chinmaya.app/](https://chinmayaswain.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://chinmaya.app/](https://chinmayaswain.vercel.app/) 
 
-
-- 💬 Ask me about **python, os ,js**
+- 💬 Ask me about **python, AI/ML, sql, os, CLI, js**
 
 - 📫 How to reach me **chinmayaranjanswain353@gmail.com**
 
