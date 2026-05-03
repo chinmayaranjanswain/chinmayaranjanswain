@@ -15,6 +15,9 @@
   <a href="https://chinmayaswain.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="[YOUR_YOUTUBE_CHANNEL_LINK_HERE](https://www.youtube.com/@devchinmaya)" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
