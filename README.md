@@ -24,7 +24,7 @@
 
 ### 🚀 What I'm Up To
 
-- 🔭 **Currently working on:** **KHATI** (Personal Project) and expanding my **MERN stack** portfolio.
+- 🔭 **Currently working on:** **LINKPINK** (Personal Project) and expanding my **MERN stack** portfolio.
 - 🌱 **Currently learning:** **AI/ML**, Large Language Models (LLMs), and Algorithmic Trading mechanics.
 - ⚡ **Recent Builds:** **TaskIsland** (Chrome Extension), **Apnibaat** (Web Chat App), and various Python automation tools.
 - 🎬 **Content Creation:** I regularly share tech tutorials and development insights on YouTube.
